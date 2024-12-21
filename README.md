@@ -4,3 +4,8 @@ https://projecteuler.net/
 ... work in progress
 
 ![Alt text](image.png)
+
+**bold**
+
+* info 1
+* bullet 3
